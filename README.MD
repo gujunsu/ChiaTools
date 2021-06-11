@@ -2,6 +2,7 @@
 
 #### 介绍
 
+
 整套系统分为3个部分软件相结合而成。
 
 ChiaTools 调用Chia客户端进行自动绘图的，也可以单机运行自动绘图。
@@ -9,6 +10,8 @@ ChiaTools 调用Chia客户端进行自动绘图的，也可以单机运行自动
 ChiaDiskServer 存储机磁盘管理 ,同时向控制中心上报可以存储的磁盘分区。
 
 ChiaServer 集群管理控制中心，调度存储机的存储分区和统计绘图机的进度状态等信息
+
+
 
 
 监控绘制好的图回传到存储机磁盘的速度，可及时监控网络故障。软件本身不访问外网，可脱离外网运行，
@@ -20,6 +23,7 @@ ChiaServer 集群管理控制中心，调度存储机的存储分区和统计绘
 本软件系统（永久免费）    软件运行平台 WIN10/WIN2008/WIN2019等系统
 
 #### QQ群 754348914
+
 
 ![ChiaServer](https://github.com/gujunsu/ChiaTools/blob/main/ChiaServer20210610142343.png?raw=true "ChiaServer20210610142343.png")
 
