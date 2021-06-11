@@ -40,7 +40,7 @@ ChiaServer 集群管理控制中心，调度存储机的存储分区和统计绘
 
 ![ChiaServer](https://github.com/gujunsu/ChiaTools/blob/main/ChiaServer20210610142343.png?raw=true "ChiaServer20210610142343.png")
 
-![ChiaDiskServer](https://github.com/gujunsu/ChiaTools/blob/main/ChiaDiskServer20210601164459.png?raw=true "ChiaDiskServer20210601164459.png")
+![ChiaDiskServer](https://github.com/gujunsu/ChiaTools/blob/main/ChiaDiskServer20210610142654.png?raw=true "ChiaDiskServer20210610142654.png")
 
 ![ChiaTools](https://github.com/gujunsu/ChiaTools/blob/main/ChiaTools20210601164353.png?raw=true "ChiaTools20210601164353.png")
 
