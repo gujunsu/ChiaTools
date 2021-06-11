@@ -20,6 +20,16 @@ ChiaServer 集群管理控制中心，调度存储机的存储分区和统计绘
 （绘图机安装官方chia软件，但是切记不要登录任何账户，只安装，安装好后关闭chia就行咯，因为绘图会CMD调用chia程序）
 
 -------------------------------
+#### 矿场实践使用案例
+
+绘图客户机130台，自动绘图通过局网传输回存储服务器。 系统WIN10系统
+
+存储服务器30台，单台24*16T存储，用于实时接收绘图机回传的文件。 系统WIN2019，共享不会有限制，同时可安装chia客户端，不要登录账户，设置网络收割机可同时收割。
+
+控制台1台，查看调试，远程，调度整体的绘图进度，存储机存储盘分配，绘图机温度监控等等。系统系统WIN2019,可用于客户端软件升级更新,(当然你整合到存储机上也可以)
+
+
+-------------------------------
 
 本软件系统（永久免费）    软件运行平台 WIN10/WIN2008/WIN2019等系统
 
@@ -31,5 +41,6 @@ ChiaServer 集群管理控制中心，调度存储机的存储分区和统计绘
 ![ChiaDiskServer](https://github.com/gujunsu/ChiaTools/blob/main/ChiaDiskServer20210601164459.png?raw=true "ChiaDiskServer20210601164459.png")
 
 ![ChiaTools](https://github.com/gujunsu/ChiaTools/blob/main/ChiaTools20210601164353.png?raw=true "ChiaTools20210601164353.png")
+
 
 
