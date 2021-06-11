@@ -28,6 +28,8 @@ ChiaServer 集群管理控制中心，调度存储机的存储分区和统计绘
 
 控制台1台，查看调试，远程，调度整体的绘图进度，存储机存储盘分配，绘图机温度监控等等。系统系统WIN2019,可用于客户端软件升级更新,(当然你整合到存储机上也可以)
 
+主钱包计算机1台，<<该机器保障安全性>>,!!!不需要安装其余任何软件!!!,只安装chia钱包,用于耕种机接收网络耕种.
+
 
 -------------------------------
 
@@ -41,6 +43,5 @@ ChiaServer 集群管理控制中心，调度存储机的存储分区和统计绘
 ![ChiaDiskServer](https://github.com/gujunsu/ChiaTools/blob/main/ChiaDiskServer20210601164459.png?raw=true "ChiaDiskServer20210601164459.png")
 
 ![ChiaTools](https://github.com/gujunsu/ChiaTools/blob/main/ChiaTools20210601164353.png?raw=true "ChiaTools20210601164353.png")
-
 
 
