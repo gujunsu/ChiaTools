@@ -35,7 +35,7 @@ ChiaServer 集群管理控制中心，调度存储机的存储分区和统计绘
 
 本软件系统（永久免费）    软件运行平台 WIN10/WIN2008/WIN2019等系统
 
-#### QQ群 754348914
+作者：追寻小眼镜
 
 
 ![ChiaServer](https://github.com/gujunsu/ChiaTools/blob/main/ChiaServer20210610142343.png?raw=true "ChiaServer20210610142343.png")
